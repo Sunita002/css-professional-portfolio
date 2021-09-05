@@ -17,11 +17,18 @@ SO THAT I can review samples of their work and assess whether they're a good can
 <li>view port adjusted to screen-sizes</li>
 <li>use of media-queries for "hero," "about me," project grid and footers </li>
 
+### -- CSS --
+<li> use of media queries </li>
+<li> justify and align content </li>
+<li> psuedo elements </li>
+<li>flexbox</li>
+<li>variables</li>
+
 ## Portfolio Overview
 ![Portfolio-Screenshot]![image](https://user-images.githubusercontent.com/87583026/132140451-8ee9981f-e52c-4e71-a289-aabe3614532c.png)
 
-## Screen Re-Sizing
-![Portfoli-Screenshot-Screen-Resizing]![image](https://user-images.githubusercontent.com/87583026/132140818-f9582fa2-4b53-448a-bb8b-966304b13b50.png)
+## Screen Resizing
+![Portfolio-Screenshot-Screen-Resizing]![image](https://user-images.githubusercontent.com/87583026/132140818-f9582fa2-4b53-448a-bb8b-966304b13b50.png)
 
 # Deployment of Portfolio Application
 <li>https://sunita002.github.io/css-professional-portfolio/</li>
