@@ -21,8 +21,8 @@ SO THAT I can review samples of their work and assess whether they're a good can
 ![Portfolio-Screenshot]![image](https://user-images.githubusercontent.com/87583026/132140451-8ee9981f-e52c-4e71-a289-aabe3614532c.png)
 
 # Deployment of Portfolio Application
-https://sunita002.github.io/css-professional-portfolio/
-https://github.com/Sunita002/css-professional-portfolio
+<li>https://sunita002.github.io/css-professional-portfolio/</li>
+<li>https://github.com/Sunita002/css-professional-portfolio</li>
 
 
 
