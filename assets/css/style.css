@@ -257,7 +257,7 @@ blockquote{
 }
 
 .sql {
-    background-image: url("../images/sql.png");
+    background-image: url("../images/fitness-app.PNG");
 }
 
 .node-js {
@@ -269,7 +269,9 @@ blockquote{
     background-color: lightgray;;
     color: var(--primary);
     padding: 10px;
-}
+};
+
+
 /* my-work section styling end */
 
 /* contact me section styling start */
@@ -419,3 +421,4 @@ footer li p:hover {
     }
     
 }
+/*media queries end*/
